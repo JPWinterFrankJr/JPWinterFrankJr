@@ -11,31 +11,7 @@
 
 Olá, eu sou o João Pedro! 👋
 
-Sou bacharel em Matemática, estudante de Análise e Desenvolvimento de Sistemas e pós-graduando em Análise de Dados. Transformo problemas de negócio em soluções digitais que unem software, dados e inteligência artificial.
-
-Minha base matemática fortalece meu raciocínio analítico; o desenvolvimento me permite tirar ideias do papel; e os dados me ajudam a construir soluções orientadas a evidências. Gosto de entender o problema antes de escolher a tecnologia.
-
-Problema de negócio → entendimento dos dados → solução tecnológica → decisão e resultado
-
-O que eu desenvolvo
-
-Desenvolvimento de software
-
-Dados e Business Intelligence
-
-IA e inteligência de processos
-
-Sistemas web, APIs, painéis administrativos e catálogos digitais
-
-Dashboards, indicadores, ETL, análise exploratória e automação de relatórios
-
-Agentes e assistentes com IA, Machine Learning e Process Mining
-
-PHP, Laravel, FastAPI e bancos relacionais
-
-Python, SQL, Power BI, Excel e Google Planilhas
-
-Ollama, modelos locais, PM4Py e integração com dados de negócio
+Sou bacharel em Matemática, estudante de Análise e Desenvolvimento de Sistemas e pós-graduando em Análise de Dados. Atuo com desenvolvimento de software, dados e IA, criando sistemas web, APIs, dashboards e automações voltadas a problemas reais de negócio.
 
 Tecnologias e ferramentas
 
@@ -54,23 +30,41 @@ Tecnologias e ferramentas
 
 </div>
 
-Projetos e estudos em destaque
+Experiência profissional
 
-🤖 Agente de IA com FastAPI
+Experiência
 
-Projeto de backend voltado à construção de agentes de IA, com foco em APIs organizadas, integração de modelos e evolução para cenários reais de negócio.
+Atuação
 
-🏦 Credit Journey Intelligence
+Sicredi — Estagiário em Estratégia e Processos
 
-Análise de jornadas de crédito utilizando Process Mining e Machine Learning sobre dados do BPI Challenge 2017, buscando gargalos, retrabalho, abandono e oportunidades de melhoria operacional.
+Experiência em ambiente cooperativo, aproximando análise, processos, estratégia e visão de negócio.
 
-🎯 CoopNext — Próxima Melhor Oferta
+ProbY Global — Analista de Dados e Trainee de TI
 
-Estudo de um motor de recomendação para apoiar gerentes na escolha da solução financeira mais aderente a cada associado, combinando propensão, uplift e próxima ação recomendada.
+Discovery de produto, análise de viabilidade técnica e impacto social, integração entre negócio, dados e desenvolvimento e atuação com metodologias ágeis.
 
-🌐 Produtos digitais para negócios
+equal | Data & AI — Projetos de Dados e BI
 
-Desenvolvimento de sites institucionais, catálogos administráveis, dashboards e soluções sob medida para transformar processos manuais em experiências digitais simples e úteis.
+Desenvolvimento de dashboards, indicadores, análises e automações utilizando Power BI e SQL.
+
+URCAMP — Desenvolvedor PHP
+
+Desenvolvimento e manutenção de soluções web utilizando PHP.
+
+Projetos desenvolvidos
+
+🤖 DreamSquad Agent
+
+Agente de IA executado localmente com FastAPI, Strands Agents SDK, Ollama e Mistral. O projeto possui API de chat, interface web, validação com Pydantic e uma ferramenta própria para cálculos matemáticos.
+
+🌐 Site institucional para escritório de advocacia
+
+Site responsivo desenvolvido com HTML, CSS, JavaScript e Bootstrap, incluindo otimizações de SEO, Open Graph, dados estruturados, sitemap, configuração de domínio e HTTPS.
+
+📊 Dashboards e automação de indicadores
+
+Projetos de organização e transformação de dados em dashboards interativos, indicadores e análises, utilizando Power BI, SQL, Excel e Google Planilhas para facilitar o acompanhamento e a tomada de decisão.
 
 Formação e desenvolvimento contínuo
 
@@ -81,20 +75,6 @@ Formação e desenvolvimento contínuo
 📊 Pós-graduação em Análise de Dados — em andamento
 
 🏅 Microsoft Power BI para Business Intelligence e Data Science — Data Science Academy, 72 horas e 91% de aproveitamento
-
-🔎 Estudos atuais: Process Mining, Machine Learning aplicado a negócios, agentes de IA e arquitetura de aplicações
-
-Como eu posso contribuir
-
-Criando sistemas que organizam processos e reduzem tarefas manuais;
-
-Transformando dados dispersos em indicadores claros para decisão;
-
-Integrando IA a aplicações e bases de dados de forma prática;
-
-Traduzindo problemas complexos em soluções compreensíveis para pessoas técnicas e de negócio;
-
-Unindo visão analítica, desenvolvimento e aprendizado contínuo.
 
 Vamos conversar?
 
@@ -109,18 +89,3 @@ Código, dados e um bom café. ☕
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1D4ED8,100:06B6D4" alt="Rodapé em tons de azul" />
 
 </div>
-
-<!--
-**JPWinterFrankJr/JPWinterFrankJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
