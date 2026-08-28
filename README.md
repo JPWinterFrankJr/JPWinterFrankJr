@@ -13,7 +13,7 @@ Olá, eu sou o João Pedro! 👋
 
 Sou bacharel em Matemática, estudante de Análise e Desenvolvimento de Sistemas e pós-graduando em Análise de Dados. Minha trajetória passa por desenvolvimento, BI, dados e processos. Gosto de entender problemas, organizar informações e construir soluções que realmente possam ser usadas.
 
-Tecnologias e ferramentas
+<h5 align="center">Tecnologia e ferramentas</h5>
 
 <div align="center">
 
@@ -21,24 +21,17 @@ Tecnologias e ferramentas
 
 <br><br>
 
-
-
-
-
-
-
-
 </div>
 
-💼 Experiência profissional
+Gosto de trocar ideias sobre desenvolvimento, dados, BI, processos e inteligência artificial — de preferência acompanhadas de um bom café.
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/LsGpcwpSsmoAAAAd/googliness-the-internship.gif" width="400" alt="Cena do filme Os Estagiários" />
-  <br>
-  <sub>Minha trajetória profissional em tecnologia também começou por um estágio.</sub>
-</div>
 
-<br>
+<img src="https://media1.tenor.com/m/_eck2VVbLJ0AAAAd/mr-robot-nod.gif" width="400" alt="Cena de Mr. Robot com café" />
+
+<br><br>
+
+
 
 Código, dados e um bom café. ☕
 
