@@ -23,7 +23,7 @@ Sou bacharel em Matemática, estudante de Análise e Desenvolvimento de Sistemas
 
 </div>
 
-Gosto de trocar ideias sobre desenvolvimento, dados, BI, processos e inteligência artificial — de preferência acompanhadas de um bom café.
+Gosto de trocar ideias sobre desenvolvimento, dados, BI, processos e inteligência artificial — de preferência acompanhado de um bom café.
 
 <div align="center">
 
