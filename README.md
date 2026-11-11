@@ -1,103 +1,144 @@
 <div align="center">
-  <img src="docs/assets/joao-portrait.webp" width="150" alt="João Pedro F. Winter Jr." />
 
-  <h1>João Pedro F. Winter Jr.</h1>
+<img src="assets/readme/capa-jpw.webp" width="100%" alt="João Pedro F. Winter Jr. — Desenvolvimento de software, dados e produtos digitais" />
 
-  <strong>Desenvolvimento de software · Dados & BI · Produtos digitais</strong>
+<h3>Software, dados e produtos que fazem sentido para o negócio.</h3>
 
-  <p>Entender o negócio. Projetar a solução. Construir o que importa.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3300&amp;pause=1250&amp;color=BA8B62&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=56&amp;lines=Da+matem%C3%A1tica+ao+c%C3%B3digo.+Do+c%C3%B3digo+ao+produto.%3BSolu%C3%A7%C3%B5es+digitais+com+vis%C3%A3o+de+neg%C3%B3cio.%3BSoftware%2C+dados+e+automa%C3%A7%C3%A3o+com+prop%C3%B3sito.%3BE+sempre+um+caf%C3%A9+forte+por+perto.+%E2%98%95" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3300&amp;pause=1250&amp;color=65412F&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=56&amp;lines=Da+matem%C3%A1tica+ao+c%C3%B3digo.+Do+c%C3%B3digo+ao+produto.%3BSolu%C3%A7%C3%B5es+digitais+com+vis%C3%A3o+de+neg%C3%B3cio.%3BSoftware%2C+dados+e+automa%C3%A7%C3%A3o+com+prop%C3%B3sito.%3BE+sempre+um+caf%C3%A9+forte+por+perto.+%E2%98%95" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3300&amp;pause=1250&amp;color=65412F&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=56&amp;lines=Da+matem%C3%A1tica+ao+c%C3%B3digo.+Do+c%C3%B3digo+ao+produto.%3BSolu%C3%A7%C3%B5es+digitais+com+vis%C3%A3o+de+neg%C3%B3cio.%3BSoftware%2C+dados+e+automa%C3%A7%C3%A3o+com+prop%C3%B3sito.%3BE+sempre+um+caf%C3%A9+forte+por+perto.+%E2%98%95" alt="Mensagens animadas sobre software, dados, produtos e café" />
+</picture>
 
-  <a href="https://JPWinterFrankJr.github.io/JPWinterFrankJr/">Explorar portfólio interativo ↗</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/JPWinterFrankJr">GitHub</a>
+<p><a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#como-posso-contribuir">Atuação</a> &nbsp;·&nbsp; <a href="#projetos-selecionados">Projetos</a> &nbsp;·&nbsp; <a href="#vamos-conversar">Contato</a></p>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3100&pause=1300&color=BC8A5D&center=true&vCenter=true&width=780&height=42&lines=Da+matem%C3%A1tica+ao+c%C3%B3digo.+Do+c%C3%B3digo+ao+produto.;Software+%2B+Dados+%2B+Vis%C3%A3o+de+neg%C3%B3cio.;Antes+de+construir%2C+eu+procuro+entender.;C%C3%B3digo%2C+dados+e+um+bom+caf%C3%A9.+%E2%98%95" alt="Frases animadas sobre desenvolvimento, dados e café" />
-  </p>
 </div>
 
 ---
 
-## O que me move não é só o código. É o que ele torna possível.
+<a id="sobre"></a>
+## O que me move não é o código. É o que ele torna possível.
 
-Sou desenvolvedor e profissional de dados. Gosto de **compreender o cenário inteiro** antes de propor uma solução — da necessidade de negócio à experiência de quem vai usar o produto.
+Olá! Eu sou **João Pedro F. Winter Jr.** 👋
 
-Minha formação começou na **Matemática**, passou pela **análise de dados e BI** e chegou ao **desenvolvimento de software**. Cada etapa ampliou a forma como enxergo problemas: estruturar, investigar, decidir e construir.
+Minha trajetória começou pela **Matemática**, onde aprendi a dar estrutura a problemas complexos. Os **dados** me mostraram como transformar informação em decisões. E, no **desenvolvimento de software**, encontrei uma forma de transformar essas decisões em ferramentas que as pessoas realmente usam.
 
-Na minha trajetória, trabalhei com **fintech, cooperativa de crédito e startup de tecnologia**. Isso me deu familiaridade tanto com indicadores e processos quanto com a execução técnica de soluções digitais.
+Hoje trabalho na interseção entre **software, dados, produtos digitais e negócios**. Na **V8 Digital**, aprofundo essa visão no setor financeiro; no **Sicredi Liberdade**, trabalhei com estratégia, processos e BI; e, na **ProbY Global**, vivi o ambiente de uma startup de tecnologia. São experiências diferentes, mas com a mesma exigência: entender o contexto, fazer escolhas técnicas e entregar algo útil.
 
-> A tecnologia é uma ferramenta. O objetivo é construir algo simples de usar, relevante para o negócio e consistente na prática.
+> **Antes de construir, eu procuro entender.** A melhor solução nem sempre é a mais complexa — é a que se encaixa no negócio e simplifica a vida de quem usa.
 
-Atualmente, sou bacharel em Matemática, estudo Análise e Desenvolvimento de Sistemas e curso pós-graduação em Análise de Dados.
-
-### Onde posso contribuir
-
-**Desenvolvimento de software** — Sites, aplicações web, sistemas internos, MVPs e integrações.
-
-**Dados & BI** — Dashboards, indicadores, modelagem de dados e análises com Python, SQL e Power BI.
-
-**Automações & IA aplicada** — Integração de ferramentas, rotinas de dados e automação de processos.
-
-**Parceria técnica** — Desenvolvimento por demanda para empresas, agências e startups, com escopo e entregas definidos.
-
-### Tecnologias
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres,js,html,css,bootstrap,git,github&perline=11" alt="PHP, Laravel, Python, MySQL, PostgreSQL, JavaScript, HTML, CSS, Bootstrap, Git e GitHub" />
-
-  <p><code>Power BI</code> · <code>SQL</code> · <code>FastAPI</code> · <code>Supabase</code> · <code>Azure</code> · <code>pandas</code></p>
-</div>
-
-## Projetos que contam essa história
-
-O portfólio interativo apresenta os trabalhos em **cards desenvolvidos com HTML e CSS**, com contexto, detalhes e links. Aqui estão os projetos para explorar:
-
-<details>
-  <summary><strong>Copa Agronômica</strong> — plataforma para evento esportivo universitário</summary>
-  <p>Experiência web de programação e informações do evento, com integração ao Supabase.</p>
-  <a href="https://copaagronomia.netlify.app/">Abrir projeto ↗</a>
-</details>
-
-<details>
-  <summary><strong>Ateliê Anderson</strong> — presença digital e gestão operacional</summary>
-  <p>Site público e desenvolvimento de uma solução para a rotina de um ateliê de ourivesaria.</p>
-  <a href="https://ourivesanderson.netlify.app/">Abrir projeto ↗</a>
-</details>
-
-<details>
-  <summary><strong>Nunes & Neves Advocacia</strong> — site institucional</summary>
-  <p>Presença digital para um escritório de advocacia, com foco em clareza e credibilidade.</p>
-  <a href="https://nunesnevesadvocacia.com.br/">Abrir projeto ↗</a>
-</details>
-
-<details>
-  <summary><strong>Talento Rural</strong> — em desenvolvimento</summary>
-  <p>Plataforma para conectar profissionais do agronegócio e empresas que buscam contratar.</p>
-</details>
-
-<details>
-  <summary><strong>UnicornBit</strong> — em desenvolvimento</summary>
-  <p>SaaS para gestão, organização e automação de processos.</p>
-</details>
-
-<p align="center"><a href="https://JPWinterFrankJr.github.io/JPWinterFrankJr/"><strong>Ver a experiência completa →</strong></a></p>
+Sou **bacharel em Matemática**, estudante de **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Análise de Dados**.
 
 ---
 
-### Código, dados e um bom café. ☕
+<a id="como-posso-contribuir"></a>
+## Onde eu entro em um projeto
+
+Posso assumir uma entrega específica ou integrar uma equipe técnica por demanda. Não trabalho apenas com a implementação: também ajudo a transformar necessidades em um escopo claro.
+
+**Desenvolvimento web & sistemas**  
+Sites institucionais, landing pages, aplicações web, sistemas internos e MVPs.
+
+**Dados & BI**  
+Dashboards, indicadores, análises, SQL, Python e informações que apoiam decisões.
+
+**Automações & integrações**  
+APIs, fluxos entre sistemas, tratamento de dados e aplicação prática de IA onde ela gera valor.
+
+**Produtos digitais**  
+Da exploração da oportunidade à evolução do produto, conectando experiência de uso, viabilidade e execução técnica.
+
+<br>
 
 <div align="center">
-  <img src="docs/assets/joao-cafe.gif" width="360" alt="João Pedro e uma xícara de café" />
 
-  <p><strong>Código, dados e um bom café. ☕</strong></p>
+<sub>FERRAMENTAS QUE USO NA PRÁTICA</sub>
 
-  <p>Projetos interessantes e conversas boas combinam com café forte.</p>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,bootstrap,mysql,postgres,git,github,azure&perline=12" alt="PHP, Laravel, Python, JavaScript, HTML, CSS, Bootstrap, MySQL, PostgreSQL, Git, GitHub e Azure" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-302720?style=flat-square&logo=powerbi&logoColor=F7F4ED" alt="Power BI" />&nbsp;
+<img src="https://img.shields.io/badge/pandas-65412F?style=flat-square&logo=pandas&logoColor=F7F4ED" alt="pandas" />&nbsp;
+<img src="https://img.shields.io/badge/Supabase-302720?style=flat-square&logo=supabase&logoColor=F7F4ED" alt="Supabase" />&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-65412F?style=flat-square&logo=fastapi&logoColor=F7F4ED" alt="FastAPI" />&nbsp;
+<img src="https://img.shields.io/badge/Excel-302720?style=flat-square&logo=microsoftexcel&logoColor=F7F4ED" alt="Excel" />
+
 </div>
 
 ---
 
+<a id="projetos-selecionados"></a>
+## Projetos selecionados
+
+Uma seleção do que construo: de experiências web a produtos digitais completos. **Clique nos cards dos projetos publicados para acessar os sites.**
+
+
+<a href="https://copaagronomia.netlify.app/" title="Conhecer Copa Agronômica">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/readme/projects/copa-agronomica-mobile.webp" />
+  <img src="assets/readme/projects/copa-agronomica-desktop.webp" width="100%" alt="Copa Agronômica: Informação, programação e experiência digital para uma competição universitária. (site publicado)." />
+</picture>
+</a>
+
+
+<a href="https://ourivesanderson.netlify.app/" title="Conhecer Ateliê Anderson">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/readme/projects/atelie-anderson-mobile.webp" />
+  <img src="assets/readme/projects/atelie-anderson-desktop.webp" width="100%" alt="Ateliê Anderson: Presença digital para o ateliê e sistema de gestão para a rotina do negócio. (site publicado)." />
+</picture>
+</a>
+
+
+<a href="https://nunesnevesadvocacia.com.br/" title="Conhecer Nunes & Neves">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/readme/projects/nunes-neves-mobile.webp" />
+  <img src="assets/readme/projects/nunes-neves-desktop.webp" width="100%" alt="Nunes &amp; Neves: Uma experiência digital clara, sólida e profissional para a advocacia. (site publicado)." />
+</picture>
+</a>
+
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/readme/projects/talento-rural-mobile.webp" />
+  <img src="assets/readme/projects/talento-rural-desktop.webp" width="100%" alt="Talento Rural: Conectando profissionais do agro a empresas e oportunidades de trabalho. (em desenvolvimento)." />
+</picture>
+
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/readme/projects/unicornbit-mobile.webp" />
+  <img src="assets/readme/projects/unicornbit-desktop.webp" width="100%" alt="UnicornBit: Software para simplificar processos, organizar a operação e ganhar eficiência. (em desenvolvimento)." />
+</picture>
+
+
+<sub>Os projetos em desenvolvimento são iniciativas em construção; seus produtos ainda não possuem páginas públicas.</sub>
+
+---
+
+## A tecnologia pode ser séria. A conversa não precisa. ☕
+
+Gosto de discutir arquitetura, dados, produtos e boas ideias — especialmente quando a conversa começa com uma pergunta interessante e um **café forte**.
+
 <div align="center">
-  <strong>Tem uma ideia, um produto ou um desafio técnico?</strong>
-  <p>Atuo com empresas, agências e startups em projetos e parcerias de desenvolvimento.</p>
-  <a href="https://github.com/JPWinterFrankJr">Vamos conversar pelo GitHub ↗</a>
+
+<img src="assets/readme/joao-cafe.gif" width="400" alt="João Pedro com uma xícara de café no ambiente de trabalho" />
+
+**Código, dados e um bom café. ☕**
+
+</div>
+
+---
+
+<a id="vamos-conversar"></a>
+## Tem um desafio técnico ou uma ideia de produto?
+
+Trabalho com **empresas, startups e agências**, no Brasil e fora, em entregas independentes e parcerias de desenvolvimento. Se o projeto exige alguém que entenda o negócio e também construa a solução, temos assunto.
+
+<div align="center">
+
+[**GitHub**](https://github.com/JPWinterFrankJr) &nbsp;·&nbsp; [**Projetos**](https://github.com/JPWinterFrankJr?tab=repositories) &nbsp;·&nbsp; [**Copa Agronômica**](https://copaagronomia.netlify.app/)
+
+<sub>Desenvolvimento, dados e uma boa dose de curiosidade.</sub>
+
 </div>
