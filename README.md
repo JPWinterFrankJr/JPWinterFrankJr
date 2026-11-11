@@ -54,17 +54,63 @@ Da exploração da oportunidade à evolução do produto, conectando experiênci
 
 <sub>FERRAMENTAS QUE USO NA PRÁTICA</sub>
 
-<br><br>
+<h4>Dados & BI</h4>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,bootstrap,mysql,postgres,git,github,azure&perline=12" alt="PHP, Laravel, Python, JavaScript, HTML, CSS, Bootstrap, MySQL, PostgreSQL, Git, GitHub e Azure" />
+<p>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-302720?style=flat-square&amp;logo=jupyter&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Jupyter Notebook" height="26" />
+  <img src="https://img.shields.io/badge/Python-65412F?style=flat-square&amp;logo=python&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="Python" height="26" />
+  <img src="https://img.shields.io/badge/Power%20BI-302720?style=flat-square&amp;logo=powerbi&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Power BI" height="26" />
+  <img src="https://img.shields.io/badge/Apache%20Hop-65412F?style=flat-square&amp;logo=apache&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="Apache Hop" height="26" />
+  <img src="https://img.shields.io/badge/Databricks-302720?style=flat-square&amp;logo=databricks&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Databricks" height="26" />
+  <img src="https://img.shields.io/badge/Excel-65412F?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="Excel" height="26" />
+</p>
 
-<br><br>
+<h4>Desenvolvimento Web</h4>
 
-<img src="https://img.shields.io/badge/Power%20BI-302720?style=flat-square&logo=powerbi&logoColor=F7F4ED" alt="Power BI" />&nbsp;
-<img src="https://img.shields.io/badge/pandas-65412F?style=flat-square&logo=pandas&logoColor=F7F4ED" alt="pandas" />&nbsp;
-<img src="https://img.shields.io/badge/Supabase-302720?style=flat-square&logo=supabase&logoColor=F7F4ED" alt="Supabase" />&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-65412F?style=flat-square&logo=fastapi&logoColor=F7F4ED" alt="FastAPI" />&nbsp;
-<img src="https://img.shields.io/badge/Excel-302720?style=flat-square&logo=microsoftexcel&logoColor=F7F4ED" alt="Excel" />
+<p>
+  <img src="https://img.shields.io/badge/Laravel-302720?style=flat-square&amp;logo=laravel&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Laravel" height="26" />
+  <img src="https://img.shields.io/badge/PHP-65412F?style=flat-square&amp;logo=php&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="PHP" height="26" />
+  <img src="https://img.shields.io/badge/JavaScript-302720?style=flat-square&amp;logo=javascript&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="JavaScript" height="26" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-65412F?style=flat-square&amp;logo=tailwindcss&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="Tailwind CSS" height="26" />
+  <img src="https://img.shields.io/badge/Node.js-302720?style=flat-square&amp;logo=nodedotjs&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Node.js" height="26" />
+</p>
+
+<h4>Bancos de Dados</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-302720?style=flat-square&amp;logo=postgresql&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="PostgreSQL" height="26" />
+  <img src="https://img.shields.io/badge/MySQL-65412F?style=flat-square&amp;logo=mysql&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="MySQL" height="26" />
+  <img src="https://img.shields.io/badge/Supabase-302720?style=flat-square&amp;logo=supabase&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Supabase" height="26" />
+</p>
+
+<h4>Inteligência Artificial</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-302720?style=flat-square&amp;logo=claude&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Claude" height="26" />
+  <img src="https://img.shields.io/badge/Codex-65412F?style=flat-square&amp;logo=openai&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="Codex" height="26" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-302720?style=flat-square&amp;logo=githubcopilot&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="GitHub Copilot" height="26" />
+  <img src="https://img.shields.io/badge/Gemini-65412F?style=flat-square&amp;logo=googlegemini&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="Gemini" height="26" />
+  <img src="https://img.shields.io/badge/RAG-302720?style=flat-square&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="RAG" height="26" />
+  <img src="https://img.shields.io/badge/LangChain-65412F?style=flat-square&amp;logo=langchain&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="LangChain" height="26" />
+</p>
+
+<h4>Automação</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-302720?style=flat-square&amp;logo=n8n&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="n8n" height="26" />
+  <img src="https://img.shields.io/badge/Power%20Automate-65412F?style=flat-square&amp;logo=microsoftpowerautomate&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="Power Automate" height="26" />
+  <img src="https://img.shields.io/badge/UiPath-302720?style=flat-square&amp;logo=uipath&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="UiPath" height="26" />
+</p>
+
+<h4>Outras ferramentas de apoio</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-302720?style=flat-square&amp;logo=html5&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="HTML" height="26" />
+  <img src="https://img.shields.io/badge/CSS-65412F?style=flat-square&amp;logo=css3&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="CSS" height="26" />
+  <img src="https://img.shields.io/badge/Git-302720?style=flat-square&amp;logo=git&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Git" height="26" />
+  <img src="https://img.shields.io/badge/GitHub-65412F?style=flat-square&amp;logo=github&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="GitHub" height="26" />
+  <img src="https://img.shields.io/badge/APIs%20REST-302720?style=flat-square&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="APIs REST" height="26" />
+</p>
 
 </div>
 
