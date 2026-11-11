@@ -102,16 +102,6 @@ Da exploração da oportunidade à evolução do produto, conectando experiênci
   <img src="https://img.shields.io/badge/UiPath-302720?style=flat-square&amp;logo=uipath&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="UiPath" height="26" />
 </p>
 
-<h4>Outras ferramentas de apoio</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-302720?style=flat-square&amp;logo=html5&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="HTML" height="26" />
-  <img src="https://img.shields.io/badge/CSS-65412F?style=flat-square&amp;logo=css3&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="CSS" height="26" />
-  <img src="https://img.shields.io/badge/Git-302720?style=flat-square&amp;logo=git&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="Git" height="26" />
-  <img src="https://img.shields.io/badge/GitHub-65412F?style=flat-square&amp;logo=github&amp;logoColor=F7F4ED&amp;labelColor=65412F" alt="GitHub" height="26" />
-  <img src="https://img.shields.io/badge/APIs%20REST-302720?style=flat-square&amp;logoColor=F7F4ED&amp;labelColor=302720" alt="APIs REST" height="26" />
-</p>
-
 </div>
 
 ---
